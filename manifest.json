@@ -1,7 +1,7 @@
 {
-  "name": "Mush'ab Store",
-  "short_name": "Mushabstore",
-  "start_url": "https://mushabstore.blogspot.com",
+  "name": "Toko Mushab",
+  "short_name": "Toko Mushab",
+  "start_url": "https://www.tokomushab.xyz",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#009688",
